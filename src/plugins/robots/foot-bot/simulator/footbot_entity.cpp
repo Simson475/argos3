@@ -27,7 +27,7 @@ namespace argos {
    /****************************************/
    /****************************************/
 
-   static const Real BODY_RADIUS                = 0.085036758f;
+   static const Real BODY_RADIUS                = 0.0085036758f;
    static const Real BODY_HEIGHT                = 0.146899733f;
 
    static const Real LED_RING_RADIUS            = BODY_RADIUS + 0.005;
