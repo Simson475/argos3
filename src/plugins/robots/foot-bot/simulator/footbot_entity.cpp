@@ -38,7 +38,7 @@ namespace argos {
    static const Real WHEEL_RADIUS               = 0.029112741f;
 
    static const Real PROXIMITY_SENSOR_RING_ELEVATION       = 0.06f;
-   static const Real PROXIMITY_SENSOR_RING_RADIUS          = BODY_RADIUS / 10;
+   static const Real PROXIMITY_SENSOR_RING_RADIUS          = BODY_RADIUS * 10;
    static const CRadians PROXIMITY_SENSOR_RING_START_ANGLE = CRadians((ARGOS_PI / 12.0f) * 0.5f);
    static const Real PROXIMITY_SENSOR_RING_RANGE           = 0.1f;
 
