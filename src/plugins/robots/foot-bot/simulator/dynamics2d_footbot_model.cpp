@@ -18,7 +18,7 @@ namespace argos {
    static const Real PD_P_CONSTANT = 0.4;
    static const Real PD_D_CONSTANT = 0.2;
 
-   static const Real FOOTBOT_RADIUS                   = 0.095036758f;
+   static const Real FOOTBOT_RADIUS                   = 0.085036758f;
    static const Real FOOTBOT_INTERWHEEL_DISTANCE      = 0.14f;
    static const Real FOOTBOT_HEIGHT                   = 0.146899733f;
 

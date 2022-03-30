@@ -44,7 +44,7 @@ namespace argos {
    static const Real BATTERY_SOCKET_WIDTH          = 0.037600133f;
    static const Real HALF_BATTERY_SOCKET_WIDTH     = BATTERY_SOCKET_WIDTH * 0.5f;
    static const Real BASE_MODULE_HEIGHT            = 0.0055f;
-   static const Real BASE_MODULE_RADIUS            = 0.095036758f;
+   static const Real BASE_MODULE_RADIUS            = 0.085036758f;
    static const Real PROXIMITY_SENSOR_HEIGHT       = 0.004f;  // unused
    static const Real PROXIMITY_SENSOR_WIDTH        = 0.007f;  // unused
    static const Real PROXIMITY_SENSOR_DEPTH        = 0.0025f; // unused
